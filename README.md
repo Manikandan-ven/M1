@@ -125,7 +125,7 @@ int main() {
     fraction2 = num2 / den2;
     float min = (fraction1 < fraction2) ? fraction1 : fraction2;
 
-    printf("Minimum between %f and %f is %.3f\n", min);
+    printf("Minimum between %f and %f is %.3f\n",fraction1,fraction2 , min);
 
     return 0;
 }
@@ -135,7 +135,7 @@ int main() {
 
 
 
-![image](https://github.com/user-attachments/assets/4002830d-32ac-457a-93a0-f519dc8886b2)
+![image](https://github.com/user-attachments/assets/f19f5f45-7db3-4016-9e42-00660a92a9d8)
 
 
 
